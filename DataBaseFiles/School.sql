@@ -1,6 +1,6 @@
-CREATE DATABASE prueba;
+CREATE DATABASE school;
 GO
-USE prueba;
+USE school;
 
 CREATE TABLE TipoIdentificacion(
 	id INT PRIMARY KEY IDENTITY (1,1) NOT NULL,
